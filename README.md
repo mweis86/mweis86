@@ -1,0 +1,4 @@
+- 👋 Hi, I’m WhiteAi
+- 👀 I’m interested in Ai Solutions
+- 🌱 I’m currently learning AI, Machine Learning, Programming
+- 💞️ I’m looking to collaborate on Ai
